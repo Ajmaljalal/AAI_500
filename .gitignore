@@ -1,0 +1,11 @@
+*.dat
+*.csv
+*.xlsx
+*.xls
+*.sav
+*.dta
+*.sas7bdat
+*.rdata
+*.rds
+
+.DS_Store
